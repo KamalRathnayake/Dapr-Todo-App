@@ -1,8 +1,0 @@
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.exe
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\appsettings.Development.json
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\appsettings.json
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.dll
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.deps.json
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.runtimeconfig.json
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.pdb
-D:\Coding\TodoApp\TodoApp.Frontend\obj\Docker\publish\Newtonsoft.Json.dll
