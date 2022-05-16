@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GqpdCzunGfS/sUMxBODaGX1eqqbidobVQB5cGepp9z9ERxlOoLxrntuIHwlpl6be3tPMhu803ane/TDoxQ5mA==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\TodoApp\\TodoApp.Frontend\\TodoApp.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamal\\.nuget\\packages\\dapr.aspnetcore\\1.7.0\\dapr.aspnetcore.1.7.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\dapr.client\\1.7.0\\dapr.client.1.7.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\google.api.commonprotos\\2.2.0\\google.api.commonprotos.2.2.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\google.protobuf\\3.15.0\\google.protobuf.3.15.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\grpc.net.client\\2.32.0\\grpc.net.client.2.32.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\grpc.net.common\\2.32.0\\grpc.net.common.2.32.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
